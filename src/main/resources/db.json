@@ -1,11 +1,9 @@
 [
   {
     "clientId": 1,
-    "clientName": "Diana Deliu",
-    "dateOfBirth": "1992-05-07",
     "products": [
       {
-        "productId": "123",
+        "productId": 123,
         "productName": "pizza",
         "productPrice": 500
       }
@@ -13,8 +11,6 @@
   },
   {
     "clientId": 2,
-    "clientName": "Alexandru Constantin",
-    "dateOfBirth": "1992-10-05",
     "products": [
       {
         "productId": 22,
@@ -22,16 +18,14 @@
         "productPrice": 200
       },
       {
-        "productName": "egg",
-        "productId": "4",
+        "productId": 4,
+        "productName": "butter",
         "productPrice": 5
       }
     ]
   },
   {
     "clientId": 3,
-    "clientName": "Mia Constantin",
-    "dateOfBirth": "1956-11-01",
     "products": [
       {
         "productId": 224,
@@ -41,9 +35,7 @@
     ]
   },
   {
-    "clientId": "4",
-    "clientName": "Ioana Deliu",
-    "dateOfBirth": "1958-04-23",
+    "clientId": 4,
     "products": [
       {
         "productId": 77,
@@ -53,9 +45,7 @@
     ]
   },
   {
-    "clientId": "5",
-    "clientName": "Gabriel Deliu",
-    "dateOfBirth": "1960-11-06",
+    "clientId": 5,
     "products": [
       {
         "productId": 45,

@@ -13,7 +13,6 @@ public class ObjectMapperJsonTest {
     @Test
     public void testReadJsonWithObjectMapper() throws Exception {
         StoreController stc = new StoreController();
-        stc.readJsonWithObjectMapper();
+        //stc.readJsonWithObjectMapper();
     }
-
 }
